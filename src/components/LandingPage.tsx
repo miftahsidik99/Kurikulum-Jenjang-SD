@@ -22,7 +22,7 @@ export default function LandingPage({ onEnter }: Props) {
 
         <div className="space-y-4">
           <h1 className="text-4xl md:text-5xl font-bold tracking-tight text-slate-900 leading-tight">
-            Krurikulum Merdeka <br className="hidden md:block" />
+            Kurikulum Merdeka <br className="hidden md:block" />
             <span className="text-blue-600">Jenjang SD</span>
           </h1>
           <p className="text-slate-500 max-w-xl mx-auto text-lg leading-relaxed">
