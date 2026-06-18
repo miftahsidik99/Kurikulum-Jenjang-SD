@@ -1,0 +1,8 @@
+{
+  "name": "Krurikulum Merdeka SD",
+  "description": "Aplikasi penyusun dokumen Kurikulum Merdeka Jenjang SD",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
